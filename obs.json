@@ -1,0 +1,112 @@
+[
+    {
+        "_id": {
+            "$oid": "64f5e5cf1c12e4567890abcd"
+        },
+        "Food_Item": "Barley, pearled",
+        "Calories": 335,
+        "Protein": "11.5g",
+        "Fat": "1.2g",
+        "Carbohydrates": "73.48g"
+    },
+    {
+        "_id": {
+            "$oid": "64f5e5cf1c12e4567890abce"
+        },
+        "Food_Item": "Corn, grains (white)",
+        "Calories": 364,
+        "Protein": "10.2g",
+        "Fat": "4.0g",
+        "Carbohydrates": "71.9g"
+    },
+    {
+        "_id": {
+            "$oid": "64f5e5cf1c12e4567890abcf"
+        },
+        "Food_Item": "Corn, grains (yellow)",
+        "Calories": 368,
+        "Protein": "12.7g",
+        "Fat": "5.5g",
+        "Carbohydrates": "67.0g"
+    },
+    {
+        "_id": {
+            "$oid": "64f5e5cf1c12e4567890abd0"
+        },
+        "Food_Item": "Corn flakes",
+        "Calories": 373,
+        "Protein": "6.2g",
+        "Fat": "2.1g",
+        "Carbohydrates": "82.3g"
+    },
+    {
+        "_id": {
+            "$oid": "64f5e5cf1c12e4567890abd1"
+        },
+        "Food_Item": "Corn, flour",
+        "Calories": 359,
+        "Protein": "8.9g",
+        "Fat": "1.5g",
+        "Carbohydrates": "75.1g"
+    },
+    {
+        "_id": {
+            "$oid": "64f5e5cf1c12e4567890abd2"
+        },
+        "Food_Item": "Corn, kernels, canned",
+        "Calories": 100,
+        "Protein": "1.8g",
+        "Fat": "0.9g",
+        "Carbohydrates": "20.1g"
+    },
+    {
+        "_id": {
+            "$oid": "64f5e5cf1c12e4567890abd3"
+        },
+        "Food_Item": "Corn, kernels on cob, grilled",
+        "Calories": 161,
+        "Protein": "4.0g",
+        "Fat": "1.0g",
+        "Carbohydrates": "34.1g"
+    },
+    {
+        "_id": {
+            "$oid": "64f5e5cf1c12e4567890abd4"
+        },
+        "Food_Item": "Corn, popped",
+        "Calories": 451,
+        "Protein": "9.1g",
+        "Fat": "16.7g",
+        "Carbohydrates": "66.0g"
+    },
+    {
+        "_id": {
+            "$oid": "64f5e5cf1c12e4567890abd5"
+        },
+        "Food_Item": "Corn, puffed",
+        "Calories": 503,
+        "Protein": "7.8g",
+        "Fat": "1.2g",
+        "Carbohydrates": "60.1g"
+    },
+    {
+        "_id": {
+            "$oid": "64f5e5cf1c12e4567890abd6"
+        },
+        "Food_Item": "Corn, starch",
+        "Calories": 380,
+        "Protein": "0.2g",
+        "Fat": "0.1g",
+        "Carbohydrates": "94.5g"
+    },
+    {
+        "_id": {
+            "$oid": "64f5e5cf1c12e4567890abd7"
+        },
+        "Food_Item": "Macaroni",
+        "Calories": 361,
+        "Protein": "12.0g",
+        "Fat": "1.0g",
+        "Carbohydrates": "75.8g"
+    }
+]
