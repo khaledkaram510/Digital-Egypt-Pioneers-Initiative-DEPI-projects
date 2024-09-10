@@ -3,9 +3,9 @@ The Digital Egypt Pioneers Initiative is a free program for Egyptian students an
 
 
 # Preview Projects
-## Dynamic Eye Animation with Amatrus Effect :
+Dynamic Eye Animation with Amatrus Effect :
 https://khaledkaram510.github.io/Digital-Egypt-Pioneers-Initiative-DEPI-projects/Dynamic%20Eye%20Animation%20with%20Amatrus%20Effect/
-## Dynamic Form Input with Real-Time Table Update:
+Dynamic Form Input with Real-Time Table Update:
 https://khaledkaram510.github.io/Digital-Egypt-Pioneers-Initiative-DEPI-projects/Dynamic%20Form%20Input%20with%20Real-Time%20Table%20Update/
-## simple_form-Validation_with_Regular-expression:
+simple_form-Validation_with_Regular-expression:
 https://khaledkaram510.github.io/Digital-Egypt-Pioneers-Initiative-DEPI-projects/simple_form-Validation_with_Regular-expression/
