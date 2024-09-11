@@ -1,0 +1,10 @@
+footer {
+  text-align: center;
+  background: #333; /* Footer background color */
+  color: white;
+  padding: 15px 0;
+  margin-top: 40px;
+}
+.author {
+  color: #e67e22;
+}

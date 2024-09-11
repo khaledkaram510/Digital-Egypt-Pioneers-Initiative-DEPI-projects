@@ -1,0 +1,33 @@
+.user-detail-card {
+  background: white;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin: 20px auto;
+  padding: 40px;
+  width: 80%;
+  max-width: 600px;
+  text-align: center; /* Centers text in the card */
+  height: 52.4vh;
+}
+
+.user-detail-card img {
+  width: 200px;
+  height: 200px;
+  /* max-width: 150px; */
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.back-btn {
+  display: inline-block;
+  background: #007BFF; /* Button background color */
+  color: white;
+  padding: 10px 15px;
+  text-decoration: none;
+  border-radius: 4px;
+  margin-top: 20px;
+}
+
+.back-btn:hover {
+  background: #0056b3; /* Button hover color */
+}
