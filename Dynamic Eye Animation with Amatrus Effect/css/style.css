@@ -30,27 +30,39 @@ h1{
 	height: 400px;
 	/* border: #0e1111 1px solid; */
 	border-radius: 45% ;
-	
+	position: relative;
 }
 
 .container > div > div{
-	/* background-color: #0e1111; */
 	background-image: url(./../imges/Sharingan.png);
 	background-size: cover;
 	background-color: red;
 	width: 70px;
 	height: 70px;
-	margin: 50% auto;
-	border-radius: 45% ;
+	top: 50%;
+	left: 50%;
+	border-radius: 45%;
 	box-shadow: 0px 0px 10px 3px #db0909;
 	animation-name: move;
 	animation-duration: 2s;
-	transform: translateX(50px);
+	transform: translate(-50%, -50%);
 	animation-iteration-count: infinite;
-	animation-timing-function:ease-in-out;
-	
+	animation-timing-function: ease-in-out;
+	position: absolute;
 }
-@keyframes move {
+ /* .container > div > div{
+	background-image: url(./../imges/Sharingan.png);
+	background-size: cover;
+	background-color: red;
+	width: 70px;
+	height: 70px;
+	aspect-ratio: 1;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	position: fixed;
+ } */
+/* @keyframes move {
 	0%{
 		transform: translateX(50px);
 	}
@@ -60,4 +72,4 @@ h1{
 	100%{
 		transform: translateX(50px);
 	}
-}
+} */
