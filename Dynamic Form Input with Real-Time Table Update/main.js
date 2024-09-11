@@ -55,9 +55,9 @@ document.querySelector("form").addEventListener("submit", function (e) {
     tableBody.innerHTML += `
       <tr>
         <td>${name.children[1].value}</td>
-        <td>${email.children[1].value}</td>
-        <td>${phone.children[1].value}</td>
         <td>${curse.children[1].value}</td>
+        <td>${phone.children[1].value}</td>
+        <td>${email.children[1].value}</td>
       </tr>
     `;
     document.querySelector("#reset").click();
