@@ -9,3 +9,7 @@ Dynamic Form Input with Real-Time Table Update:
 https://khaledkaram510.github.io/Digital-Egypt-Pioneers-Initiative-DEPI-projects/Dynamic%20Form%20Input%20with%20Real-Time%20Table%20Update/
 simple_form-Validation_with_Regular-expression:
 https://khaledkaram510.github.io/Digital-Egypt-Pioneers-Initiative-DEPI-projects/simple_form-Validation_with_Regular-expression/
+simple users site using react:
+https://simple-users-site.vercel.app/
+simple products site using react:
+https://simpleproductssite.vercel.app/
