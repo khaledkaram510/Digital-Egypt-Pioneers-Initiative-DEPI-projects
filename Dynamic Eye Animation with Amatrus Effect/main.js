@@ -6,7 +6,7 @@ const originPosition = { top: '50%', left: '50%' };
 document.body.onpointermove = event => {
     const { clientX, clientY } = event;
 
-    const movementFactor = 2; // Adjust this value to control the movement range (smaller = less movement)
+    const movementFactor = 2.4; // Adjust this value to control the movement range (smaller = less movement)
 
     const limitedTop = 50 + (clientY / window.innerHeight - 0.5) * 20 * movementFactor;
     const limitedLeft = 50 + (clientX / window.innerWidth - 0.5) * 20 * movementFactor;
@@ -15,11 +15,11 @@ document.body.onpointermove = event => {
     move1.animate({
         top: `${limitedTop}%`,
         left: `${limitedLeft}%`
-    }, { duration: 500, fill: "forwards" });
+    }, { duration: 300, fill: "forwards" });
     move2.animate({
         top: `${limitedTop}%`,
         left: `${limitedLeft}%`
-    }, { duration: 500, fill: "forwards" });
+    }, { duration: 300, fill: "forwards" });
 
     clearTimeout(timeoutId);
 
