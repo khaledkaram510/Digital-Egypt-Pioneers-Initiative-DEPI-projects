@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  #root {
+    @apply min-h-screen flex flex-col justify-between h-80;
+  }
+  body {
+    /* @apply min-h-screen ; */
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+  }
+}
