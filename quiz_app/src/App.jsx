@@ -1,8 +1,8 @@
-import { useState, useEffect } from 'react';
+import { useState} from 'react';
 import InfoBox from './components/InfoBox';
 import QuizBox from './components/QuizBox';
 import ResultBox from './components/ResultBox';
-import {questions} from "./data/db"
+import {db} from "./data/db"
 // const fetchQuestions = async () => {
 //   const response = await fetch('./data/db.json'); // Change to the public directory
 //   if (!response.ok) {
@@ -19,6 +19,7 @@ function App() {
   const [rightAnswer, setRightAnswer] = useState('');
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [score, setScore] = useState(0);
+  const questions = db.questions
   // const [questions, setQuestions] = useState([]);
 
   // useEffect(() => {
