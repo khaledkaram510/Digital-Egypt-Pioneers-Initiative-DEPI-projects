@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import InfoBox from './components/InfoBox';
 import QuizBox from './components/QuizBox';
 import ResultBox from './components/ResultBox';
-
+import {questions} from "./data/db"
 // const fetchQuestions = async () => {
 //   const response = await fetch('./data/db.json'); // Change to the public directory
 //   if (!response.ok) {
@@ -19,26 +19,26 @@ function App() {
   const [rightAnswer, setRightAnswer] = useState('');
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [score, setScore] = useState(0);
-  const [questions, setQuestions] = useState([]);
+  // const [questions, setQuestions] = useState([]);
 
-  useEffect(() => {
-    // Define the async function within useEffect
-    const loadQuestions = async () => {
-      try {
-        const response = await fetch('http://localhost:3000/questions'); // Change to the public directory
-        if (!response.ok) {
-          throw new Error('Failed to fetch questions');
-        }
-        const data = await response.json();
-        // console.log(data);
-        setQuestions(data); // Set the fetched questions into the state
-      } catch (error) {
-        console.error('Error fetching questions:', error);
-      }
-    };
+  // useEffect(() => {
+  //   // Define the async function within useEffect
+  //   const loadQuestions = async () => {
+  //     try {
+  //       const response = await fetch('http://localhost:3000/questions'); // Change to the public directory
+  //       if (!response.ok) {
+  //         throw new Error('Failed to fetch questions');
+  //       }
+  //       const data = await response.json();
+  //       // console.log(data);
+  //       setQuestions(data); // Set the fetched questions into the state
+  //     } catch (error) {
+  //       console.error('Error fetching questions:', error);
+  //     }
+  //   };
 
-    loadQuestions(); // Call the async function inside useEffect
-  }, []); // Empty dependency array ensures it runs once
+  //   loadQuestions(); // Call the async function inside useEffect
+  // }, []); // Empty dependency array ensures it runs once
 
   const startQuiz = () => {
     setShowInfo(true);

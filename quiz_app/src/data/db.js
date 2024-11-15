@@ -1,4 +1,4 @@
-{
+export const questions ={
   "questions": [
     {
       "id": 1,
