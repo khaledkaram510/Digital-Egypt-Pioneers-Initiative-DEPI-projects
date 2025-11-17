@@ -2,9 +2,9 @@
   {
     "name": "Dynamic Eye Animation with Amatrus Effect",
     "description": "Dynamic eye animation inspired by the Amaterasu effect, built using HTML, CSS, and JavaScript with interactive movement following the cursor.",
-    "imagePreview": "/Dynamic Eye Animation with Amatrus Effect/portfolioMetaData/images/image",
+    "imagePreview": "Dynamic Eye Animation with Amatrus Effect/portfolioMetaData/images/image",
     "images": [
-      "/Dynamic Eye Animation with Amatrus Effect/portfolioMetaData/images/image"
+      "Dynamic Eye Animation with Amatrus Effect/portfolioMetaData/images/image"
     ],
     "public": true,
     "tags": ["web", "animation", "javascript", "frontend"],
@@ -21,10 +21,10 @@
   {
     "name": "Dynamic Form Input with Real-Time Table Update",
     "description": "A dynamic form that validates user input and updates a data table in real time using HTML, CSS, and vanilla JavaScript.",
-    "imagePreview": "/Dynamic Form Input with Real-Time Table Update/portfolioMetaData/images/image1",
+    "imagePreview": "Dynamic Form Input with Real-Time Table Update/portfolioMetaData/images/image1",
     "images": [
-      "/Dynamic Form Input with Real-Time Table Update/portfolioMetaData/images/image1",
-      "/Dynamic Form Input with Real-Time Table Update/portfolioMetaData/images/image2"
+      "Dynamic Form Input with Real-Time Table Update/portfolioMetaData/images/image1",
+      "Dynamic Form Input with Real-Time Table Update/portfolioMetaData/images/image2"
     ],
     "public": true,
     "tags": ["web", "form", "javascript", "frontend"],
@@ -41,9 +41,9 @@
   {
     "name": "Simple Form Validation with Regular Expression",
     "description": "Simple client-side form validation using regular expressions for name, email, and phone fields, styled with HTML and CSS.",
-    "imagePreview": "/simple_form-Validation_with_Regular-expression/portfolioMetaData/images/image",
+    "imagePreview": "simple_form-Validation_with_Regular-expression/portfolioMetaData/images/image",
     "images": [
-      "/simple_form-Validation_with_Regular-expression/portfolioMetaData/images/image"
+      "simple_form-Validation_with_Regular-expression/portfolioMetaData/images/image"
     ],
     "public": true,
     "tags": ["web", "form", "validation", "javascript"],
@@ -60,8 +60,8 @@
   {
     "name": "Quiz App (React + Vite)",
     "description": "A quiz application built with React and Vite using Tailwind CSS and Flowbite, featuring a timer, score tracking, and result view.",
-    "imagePreview": "/quiz_app/portfolioMetaData/images/image",
-    "images": ["/quiz_app/portfolioMetaData/images/image", "/quiz_app/portfolioMetaData/images/image1", "/quiz_app/portfolioMetaData/images/image2"],
+    "imagePreview": "quiz_app/portfolioMetaData/images/image",
+    "images": ["quiz_app/portfolioMetaData/images/image", "/quiz_app/portfolioMetaData/images/image1", "/quiz_app/portfolioMetaData/images/image2"],
     "public": true,
     "tags": ["web", "react", "quiz", "spa"],
     "keywordsSEO": [
@@ -94,9 +94,9 @@
   {
     "name": "Simple Users Site (React + Vite)",
     "description": "A simple user listing site built with React and Vite that fetches user data from the ReqRes API, supports pagination and user detail pages.",
-    "imagePreview": "/simple_users_site/portfolioMetaData/images/image",
+    "imagePreview": "simple_users_site/portfolioMetaData/images/image",
     "images": [
-      "/simple_users_site/portfolioMetaData/images/image"
+      "simple_users_site/portfolioMetaData/images/image"
     ],
     "public": true,
     "tags": ["web", "react", "api", "users"],
@@ -113,10 +113,10 @@
   {
     "name": "Simple Products Site (React + Vite)",
     "description": "A simple products website built with React and Vite that fetches data from FakeStore API, displaying product cards and a product details page.",
-    "imagePreview": "/simple_products_site/portfolioMetaData/images/image1",
+    "imagePreview": "simple_products_site/portfolioMetaData/images/image1",
     "images": [
-      "/simple_products_site/portfolioMetaData/images/image1",
-      "/simple_products_site/portfolioMetaData/images/image2"
+      "simple_products_site/portfolioMetaData/images/image1",
+      "simple_products_site/portfolioMetaData/images/image2"
     ],
     "public": true,
     "tags": ["web", "react", "ecommerce", "products"],
@@ -133,9 +133,9 @@
   {
     "name": "Products Site Dark Theme with Category Search (React + Vite)",
     "description": "A dark-themed products site built with React, Vite, Tailwind CSS, and DaisyUI that uses DummyJSON API with category filtering and search functionality.",
-    "imagePreview": "/products_site_darktheme_catagory_sherch/portfolioMetaData/images/image",
+    "imagePreview": "products_site_darktheme_catagory_sherch/portfolioMetaData/images/image",
     "images": [
-      "/products_site_darktheme_catagory_sherch/portfolioMetaData/images/image"
+      "products_site_darktheme_catagory_sherch/portfolioMetaData/images/image"
     ],
     "public": true,
     "tags": ["web", "react", "ecommerce", "dark theme"],
