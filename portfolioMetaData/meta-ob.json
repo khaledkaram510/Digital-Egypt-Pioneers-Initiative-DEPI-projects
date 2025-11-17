@@ -1,0 +1,186 @@
+[
+  {
+    "name": "Dynamic Eye Animation with Amatrus Effect",
+    "description": "Dynamic eye animation inspired by the Amaterasu effect, built using HTML, CSS, and JavaScript with interactive movement following the cursor.",
+    "imagePreview": "./images/dynamic-eye-animation-preview.png",
+    "images": [
+      "./images/dynamic-eye-animation-1.png",
+      "./images/dynamic-eye-animation-2.png"
+    ],
+    "public": true,
+    "tags": ["web", "animation", "javascript", "frontend"],
+    "keywordsSEO": [
+      "amaterasu",
+      "dynamic eye animation",
+      "css animation",
+      "javascript animation",
+      "frontend project"
+    ],
+    "deployedLink": "https://khaledkaram510.github.io/Digital-Egypt-Pioneers-Initiative-DEPI-projects/Dynamic%20Eye%20Animation%20with%20Amatrus%20Effect/",
+    "technologies": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "name": "Dynamic Form Input with Real-Time Table Update",
+    "description": "A dynamic form that validates user input and updates a data table in real time using HTML, CSS, and vanilla JavaScript.",
+    "imagePreview": "./images/dynamic-form-table-preview.png",
+    "images": [
+      "./images/dynamic-form-table-1.png",
+      "./images/dynamic-form-table-2.png"
+    ],
+    "public": true,
+    "tags": ["web", "form", "javascript", "frontend"],
+    "keywordsSEO": [
+      "dynamic form",
+      "real time table update",
+      "javascript form validation",
+      "html css javascript",
+      "frontend project"
+    ],
+    "deployedLink": "https://khaledkaram510.github.io/Digital-Egypt-Pioneers-Initiative-DEPI-projects/Dynamic%20Form%20Input%20with%20Real-Time%20Table%20Update/",
+    "technologies": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "name": "Simple Form Validation with Regular Expression",
+    "description": "Simple client-side form validation using regular expressions for name, email, and phone fields, styled with HTML and CSS.",
+    "imagePreview": "./images/simple-form-validation-preview.png",
+    "images": [
+      "./images/simple-form-validation-1.png",
+      "./images/simple-form-validation-2.png"
+    ],
+    "public": true,
+    "tags": ["web", "form", "validation", "javascript"],
+    "keywordsSEO": [
+      "form validation",
+      "regular expression validation",
+      "javascript regex",
+      "html css javascript form",
+      "frontend project"
+    ],
+    "deployedLink": "https://khaledkaram510.github.io/Digital-Egypt-Pioneers-Initiative-DEPI-projects/simple_form-Validation_with_Regular-expression/",
+    "technologies": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "name": "Quiz App (React + Vite)",
+    "description": "A quiz application built with React and Vite using Tailwind CSS and Flowbite, featuring a timer, score tracking, and result view.",
+    "imagePreview": "./images/quiz-app-preview.png",
+    "images": ["./images/quiz-app-1.png", "./images/quiz-app-2.png"],
+    "public": true,
+    "tags": ["web", "react", "quiz", "spa"],
+    "keywordsSEO": [
+      "react quiz app",
+      "vite quiz project",
+      "tailwind quiz ui",
+      "flowbite react quiz",
+      "javascript quiz application"
+    ],
+    "deployedLink": "",
+    "technologies": ["React", "Vite", "JavaScript", "Tailwind CSS", "Flowbite"]
+  },
+  {
+    "name": "Simple Calculator (React + Vite)",
+    "description": "A simple calculator built with React and Vite using Tailwind CSS for styling, supporting basic arithmetic operations.",
+    "imagePreview": "./images/simple-calculator-preview.png",
+    "images": [
+      "./images/simple-calculator-1.png",
+      "./images/simple-calculator-2.png"
+    ],
+    "public": true,
+    "tags": ["web", "react", "calculator", "spa"],
+    "keywordsSEO": [
+      "react calculator",
+      "vite calculator",
+      "tailwind calculator ui",
+      "simple calculator app",
+      "javascript calculator"
+    ],
+    "deployedLink": "",
+    "technologies": ["React", "Vite", "JavaScript", "Tailwind CSS"]
+  },
+  {
+    "name": "Simple Users Site (React + Vite)",
+    "description": "A simple user listing site built with React and Vite that fetches user data from the ReqRes API, supports pagination and user detail pages.",
+    "imagePreview": "./images/simple-users-site-preview.png",
+    "images": [
+      "./images/simple-users-site-1.png",
+      "./images/simple-users-site-2.png"
+    ],
+    "public": true,
+    "tags": ["web", "react", "api", "users"],
+    "keywordsSEO": [
+      "react users page",
+      "reqres api",
+      "vite users list",
+      "react router users",
+      "simple users site"
+    ],
+    "deployedLink": "https://simple-users-site.vercel.app/",
+    "technologies": ["React", "Vite", "JavaScript", "React Router", "CSS"]
+  },
+  {
+    "name": "Simple Products Site (React + Vite)",
+    "description": "A simple products website built with React and Vite that fetches data from FakeStore API, displaying product cards and a product details page.",
+    "imagePreview": "./images/simple-products-site-preview.png",
+    "images": [
+      "./images/simple-products-site-1.png",
+      "./images/simple-products-site-2.png"
+    ],
+    "public": true,
+    "tags": ["web", "react", "ecommerce", "products"],
+    "keywordsSEO": [
+      "react products site",
+      "fakestore api",
+      "simple ecommerce ui",
+      "vite react shop",
+      "product details page"
+    ],
+    "deployedLink": "https://simpleproductssite.vercel.app/",
+    "technologies": ["React", "Vite", "JavaScript", "React Router", "CSS"]
+  },
+  {
+    "name": "Products Site Dark Theme with Category Search (React + Vite)",
+    "description": "A dark-themed products site built with React, Vite, Tailwind CSS, and DaisyUI that uses DummyJSON API with category filtering and search functionality.",
+    "imagePreview": "./images/products-darktheme-preview.png",
+    "images": [
+      "./images/products-darktheme-1.png",
+      "./images/products-darktheme-2.png"
+    ],
+    "public": true,
+    "tags": ["web", "react", "ecommerce", "dark theme"],
+    "keywordsSEO": [
+      "react products dark theme",
+      "dummyjson products api",
+      "tailwind daisyui shop",
+      "category search products",
+      "react ecommerce project"
+    ],
+    "deployedLink": "",
+    "technologies": [
+      "React",
+      "Vite",
+      "JavaScript",
+      "Tailwind CSS",
+      "DaisyUI",
+      "React Router"
+    ]
+  },
+  {
+    "name": "Elzero Template One Clone",
+    "description": "A clone of Elzero Template One created using HTML, CSS, and JavaScript, showcasing a responsive multi-section landing page.",
+    "imagePreview": "./images/elzero-template-one-preview.png",
+    "images": [
+      "./images/elzero-template-one-1.png",
+      "./images/elzero-template-one-2.png"
+    ],
+    "public": true,
+    "tags": ["web", "template", "landing page"],
+    "keywordsSEO": [
+      "elzero",
+      "template one",
+      "html css javascript template",
+      "responsive landing page",
+      "elzero web design"
+    ],
+    "deployedLink": "https://khaledkaram510.github.io/template_one/",
+    "technologies": ["HTML", "CSS", "JavaScript"]
+  }
+]

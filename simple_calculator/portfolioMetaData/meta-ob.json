@@ -1,0 +1,11 @@
+{
+  "name":"",
+  "description":"this is elzero template one website with HTML and CSS", 
+  "imagePreview":"", 
+  "images":[""], 
+  "public":true, 
+  "tags":["web"],
+  "keywordsSEO":["elzero", "template one", "html", "css", "javascript"],
+  "deployedLink":"https://khaledkaram510.github.io/template_one/", 
+  "technologies":["HTML", "CSS", "JavaScript"]
+}
