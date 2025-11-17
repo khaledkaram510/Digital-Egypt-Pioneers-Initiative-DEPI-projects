@@ -2,10 +2,9 @@
   {
     "name": "Dynamic Eye Animation with Amatrus Effect",
     "description": "Dynamic eye animation inspired by the Amaterasu effect, built using HTML, CSS, and JavaScript with interactive movement following the cursor.",
-    "imagePreview": "./images/dynamic-eye-animation-preview.png",
+    "imagePreview": "/Dynamic Eye Animation with Amatrus Effect/portfolioMetaData/images/image",
     "images": [
-      "./images/dynamic-eye-animation-1.png",
-      "./images/dynamic-eye-animation-2.png"
+      "/Dynamic Eye Animation with Amatrus Effect/portfolioMetaData/images/image"
     ],
     "public": true,
     "tags": ["web", "animation", "javascript", "frontend"],
@@ -22,10 +21,10 @@
   {
     "name": "Dynamic Form Input with Real-Time Table Update",
     "description": "A dynamic form that validates user input and updates a data table in real time using HTML, CSS, and vanilla JavaScript.",
-    "imagePreview": "./images/dynamic-form-table-preview.png",
+    "imagePreview": "/Dynamic Form Input with Real-Time Table Update/portfolioMetaData/images/image1",
     "images": [
-      "./images/dynamic-form-table-1.png",
-      "./images/dynamic-form-table-2.png"
+      "/Dynamic Form Input with Real-Time Table Update/portfolioMetaData/images/image1",
+      "/Dynamic Form Input with Real-Time Table Update/portfolioMetaData/images/image2"
     ],
     "public": true,
     "tags": ["web", "form", "javascript", "frontend"],
@@ -42,10 +41,9 @@
   {
     "name": "Simple Form Validation with Regular Expression",
     "description": "Simple client-side form validation using regular expressions for name, email, and phone fields, styled with HTML and CSS.",
-    "imagePreview": "./images/simple-form-validation-preview.png",
+    "imagePreview": "/simple_form-Validation_with_Regular-expression/portfolioMetaData/images/image",
     "images": [
-      "./images/simple-form-validation-1.png",
-      "./images/simple-form-validation-2.png"
+      "/simple_form-Validation_with_Regular-expression/portfolioMetaData/images/image"
     ],
     "public": true,
     "tags": ["web", "form", "validation", "javascript"],
@@ -62,8 +60,8 @@
   {
     "name": "Quiz App (React + Vite)",
     "description": "A quiz application built with React and Vite using Tailwind CSS and Flowbite, featuring a timer, score tracking, and result view.",
-    "imagePreview": "./images/quiz-app-preview.png",
-    "images": ["./images/quiz-app-1.png", "./images/quiz-app-2.png"],
+    "imagePreview": "/quiz_app/portfolioMetaData/images/image",
+    "images": ["/quiz_app/portfolioMetaData/images/image", "/quiz_app/portfolioMetaData/images/image1", "/quiz_app/portfolioMetaData/images/image2"],
     "public": true,
     "tags": ["web", "react", "quiz", "spa"],
     "keywordsSEO": [
@@ -79,11 +77,8 @@
   {
     "name": "Simple Calculator (React + Vite)",
     "description": "A simple calculator built with React and Vite using Tailwind CSS for styling, supporting basic arithmetic operations.",
-    "imagePreview": "./images/simple-calculator-preview.png",
-    "images": [
-      "./images/simple-calculator-1.png",
-      "./images/simple-calculator-2.png"
-    ],
+    "imagePreview": "",
+    "images": [],
     "public": true,
     "tags": ["web", "react", "calculator", "spa"],
     "keywordsSEO": [
@@ -99,10 +94,9 @@
   {
     "name": "Simple Users Site (React + Vite)",
     "description": "A simple user listing site built with React and Vite that fetches user data from the ReqRes API, supports pagination and user detail pages.",
-    "imagePreview": "./images/simple-users-site-preview.png",
+    "imagePreview": "/simple_users_site/portfolioMetaData/images/image",
     "images": [
-      "./images/simple-users-site-1.png",
-      "./images/simple-users-site-2.png"
+      "/simple_users_site/portfolioMetaData/images/image"
     ],
     "public": true,
     "tags": ["web", "react", "api", "users"],
@@ -119,10 +113,10 @@
   {
     "name": "Simple Products Site (React + Vite)",
     "description": "A simple products website built with React and Vite that fetches data from FakeStore API, displaying product cards and a product details page.",
-    "imagePreview": "./images/simple-products-site-preview.png",
+    "imagePreview": "/simple_products_site/portfolioMetaData/images/image1",
     "images": [
-      "./images/simple-products-site-1.png",
-      "./images/simple-products-site-2.png"
+      "/simple_products_site/portfolioMetaData/images/image1",
+      "/simple_products_site/portfolioMetaData/images/image2"
     ],
     "public": true,
     "tags": ["web", "react", "ecommerce", "products"],
@@ -139,10 +133,9 @@
   {
     "name": "Products Site Dark Theme with Category Search (React + Vite)",
     "description": "A dark-themed products site built with React, Vite, Tailwind CSS, and DaisyUI that uses DummyJSON API with category filtering and search functionality.",
-    "imagePreview": "./images/products-darktheme-preview.png",
+    "imagePreview": "/products_site_darktheme_catagory_sherch/portfolioMetaData/images/image",
     "images": [
-      "./images/products-darktheme-1.png",
-      "./images/products-darktheme-2.png"
+      "/products_site_darktheme_catagory_sherch/portfolioMetaData/images/image"
     ],
     "public": true,
     "tags": ["web", "react", "ecommerce", "dark theme"],
@@ -162,25 +155,6 @@
       "DaisyUI",
       "React Router"
     ]
-  },
-  {
-    "name": "Elzero Template One Clone",
-    "description": "A clone of Elzero Template One created using HTML, CSS, and JavaScript, showcasing a responsive multi-section landing page.",
-    "imagePreview": "./images/elzero-template-one-preview.png",
-    "images": [
-      "./images/elzero-template-one-1.png",
-      "./images/elzero-template-one-2.png"
-    ],
-    "public": true,
-    "tags": ["web", "template", "landing page"],
-    "keywordsSEO": [
-      "elzero",
-      "template one",
-      "html css javascript template",
-      "responsive landing page",
-      "elzero web design"
-    ],
-    "deployedLink": "https://khaledkaram510.github.io/template_one/",
-    "technologies": ["HTML", "CSS", "JavaScript"]
   }
+
 ]
